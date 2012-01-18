@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\frozen-lake.png</Source>
+      <Name>Sprites\frozen-lake</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\documents\visual studio 2010\Projects\TurboNoid\TurboNoid\TurboNoid\bin\x86\Debug\Content\Sprites\frozen-lake.xnb</Output>
+      <Time>2012-01-12T20:10:00.4690259+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player.png</Source>
+      <Name>Sprites\Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\documents\visual studio 2010\Projects\TurboNoid\TurboNoid\TurboNoid\bin\x86\Debug\Content\Sprites\Player.xnb</Output>
+      <Time>2012-01-12T20:34:55.0375103+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BlueBlock.png</Source>
+      <Name>Sprites\BlueBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\documents\visual studio 2010\Projects\TurboNoid\TurboNoid\TurboNoid\bin\x86\Debug\Content\Sprites\BlueBlock.xnb</Output>
+      <Time>2012-01-12T20:37:02.0927774+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\RedBlock.png</Source>
+      <Name>Sprites\RedBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\documents\visual studio 2010\Projects\TurboNoid\TurboNoid\TurboNoid\bin\x86\Debug\Content\Sprites\RedBlock.xnb</Output>
+      <Time>2012-01-12T20:37:06.6780397+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WhiteBlock.png</Source>
+      <Name>Sprites\WhiteBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\documents\visual studio 2010\Projects\TurboNoid\TurboNoid\TurboNoid\bin\x86\Debug\Content\Sprites\WhiteBlock.xnb</Output>
+      <Time>2012-01-12T20:37:11.5153164+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Ball.png</Source>
+      <Name>Sprites\Ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\documents\visual studio 2010\Projects\TurboNoid\TurboNoid\TurboNoid\bin\x86\Debug\Content\Sprites\Ball.xnb</Output>
+      <Time>2012-01-12T20:40:59.9503821+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\StartScreen.png</Source>
+      <Name>Screens\StartScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\documents\visual studio 2010\Projects\TurboNoid\TurboNoid\TurboNoid\bin\x86\Debug\Content\Screens\StartScreen.xnb</Output>
+      <Time>2012-01-12T21:42:06.8290314+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\SkullGuy1.png</Source>
+      <Name>Screens\SkullGuy1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\documents\visual studio 2010\Projects\TurboNoid\TurboNoid\TurboNoid\bin\x86\Debug\Content\Screens\SkullGuy1.xnb</Output>
+      <Time>2012-01-15T21:55:20.3797298+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\SkullGuy2.png</Source>
+      <Name>Screens\SkullGuy2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\documents\visual studio 2010\Projects\TurboNoid\TurboNoid\TurboNoid\bin\x86\Debug\Content\Screens\SkullGuy2.xnb</Output>
+      <Time>2012-01-15T21:55:25.4580202+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\GameFont.spritefont</Source>
+      <Name>Fonts\GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\documents\visual studio 2010\Projects\TurboNoid\TurboNoid\TurboNoid\bin\x86\Debug\Content\Fonts\GameFont.xnb</Output>
+      <Time>2012-01-12T22:09:28.3874222+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\ID4 Virus.mp3</Source>
+      <Name>Sounds\ID4 Virus</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\documents\visual studio 2010\Projects\TurboNoid\TurboNoid\TurboNoid\bin\x86\Debug\Content\Sounds\ID4 Virus.xnb</Output>
+      <Extra>C:\Users\Jake\documents\visual studio 2010\Projects\TurboNoid\TurboNoid\TurboNoid\bin\x86\Debug\Content\Sounds\ID4 Virus.wma</Extra>
+      <Time>2012-01-15T22:29:31.6477266+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Doink.wma</Source>
+      <Name>Sounds\Doink</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\documents\visual studio 2010\Projects\TurboNoid\TurboNoid\TurboNoid\bin\x86\Debug\Content\Sounds\Doink.xnb</Output>
+      <Time>2012-01-17T21:54:10.2065737+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Jake\documents\visual studio 2010\Projects\TurboNoid\TurboNoid\TurboNoidContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jake\documents\visual studio 2010\Projects\TurboNoid\TurboNoid\TurboNoid\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jake\documents\visual studio 2010\Projects\TurboNoid\TurboNoid\TurboNoidContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jake\documents\visual studio 2010\Projects\TurboNoid\TurboNoid\TurboNoid\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T19:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T19:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T19:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T19:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T19:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T19:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-05-30T22:54:35.6332911+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
